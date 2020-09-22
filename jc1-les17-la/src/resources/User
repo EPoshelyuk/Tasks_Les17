@@ -1,0 +1,3 @@
+name=Ivanov, surname=Ivan, adult=true, login=IvanovIvan, password=1111
+name=Ivanova, surname=Maria, adult=true, login=Masha, password=7777
+name=Ivanov, surname=Vasiliy, adult=false, login=IvanoVV, password=0000
